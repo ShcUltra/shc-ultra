@@ -1,16 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "url": "https://github.com/ShcUltra/shc-ultra/releases/download/v1.1.0/ShcUltra-v1.1.0.zip",
-    "changelog": 
-"Bug Fix:
-Fixed shooter bug
-Fixed woodcutter bug
-Fixed catapult bug
-
-Add New Item:
-Added army display
-Added timer
-
-My New Feature:
-Added a new lobby system"
+    "changelog": "Bug Fix:\nFixed shooter bug\nFixed woodcutter bug\nFixed catapult bug\n\nAdd New Item:\nAdded army display\nAdded timer\n\nMy New Feature:\nAdded a new lobby system"
 }
